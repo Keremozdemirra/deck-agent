@@ -22,11 +22,10 @@ Rules of thumb applied to every item:
 
 ## Done
 
-Nothing yet.
+- [x] **001 — storyline-first** · shipped 2026-08-20.
 
 ## Queue
 
-- [ ] **001 — storyline-first** · Settle the argument as a sequence of sentences before any slide exists. Each sentence becomes one slide's headline; a sentence that cannot carry a slide is either two sentences or not part of the argument.
 - [ ] **002 — action-titles** · Write every headline as the point the slide makes rather than the topic it covers. The change that most improves a deck and the one most often reverted under time pressure.
 - [ ] **003 — one-slide-one-job** · The test each slide has to pass, and what to do with a slide that fails it.
 - [ ] **004 — evidence-per-claim** · Attach the source and vintage to every number on a slide, kept where the deck can be checked later rather than in someone's memory.
