@@ -1,6 +1,6 @@
 ---
 name: storyline-first
-description: Settles what a deck argues before any slide is built — the governing thought, the three-to-five supporting lines that hold it up, and the order that makes them land. Produces a storyline the slides then serve, rather than a pile of slides looking for a message. Use to produce, restructure or rescue a presentation: "sunum hazirla", "deck yap", "sunum akisi kur", "yonetim kuruluna sunum", "bu sunum daginik", "pitch deck", "turn this analysis into slides", "why doesn't this deck land". Also before any slide-building tool runs, and when reviewing someone else's deck for structure rather than design. Not for building the slides (use pptx once the storyline is settled), and not for a status pack or data appendix that carries no argument.
+description: Settles what a deck argues before any slide exists: the governing thought, three to five supporting lines, and their order. Use to produce, restructure or rescue a presentation ("sunum hazirla", "deck yap", "sunum akisi kur", "pitch deck", "bu sunum daginik", "why doesn't this deck land") and before any slide-building tool runs. Not for building the slides (use pptx) or a status pack with no argument.
 ---
 
 # Storyline First
